@@ -1,0 +1,28 @@
+Installation
+
+> nmp init | npm init -y
+> npm i express
+> npm i mongoose
+> npm i hbs
+
+"scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js -e js,hbs"
+  },
+
+> npm run start
+> npm run dev
+
+
+
+
+=> Encryption & Hashing
+=> Bcrypt Hashing
+> npm i bcryptjs
+
+=> Authentication
+=> JSON Web Token (JWT)
+> npm i jsonwebtoken
+
+> npm i dotenv
