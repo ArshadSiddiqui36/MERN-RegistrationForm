@@ -26,3 +26,7 @@ Installation
 > npm i jsonwebtoken
 
 > npm i dotenv
+
+
+=> Cookie
+> npm i cookie-parser
